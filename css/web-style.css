@@ -1,0 +1,74 @@
+textarea.contacttextarea{
+	width:96%;
+	padding:2%;
+	border:1px solid #d5d5d5;
+	min-height:180px;
+	color: #939393;
+	font-size:12pt;
+	font-family: 'HelveticaLTStdRoman', Arial, Helvetica, sans-serif;
+}
+
+.contacttextform{
+	width:92%;
+	padding:6px 4% 6px 4%;
+	border:1px solid #d5d5d5;
+	color: #939393;
+	font-size:12pt;
+	font-family: 'HelveticaLTStdRoman', Arial, Helvetica, sans-serif;
+	margin-bottom:3px;
+}
+
+.contactformbutton{
+	background-color:#d46116;
+	padding: 10px 22px;
+	font-family: 'BebasNeueRegular',Arial, Helvetica, sans-serif;
+	font-size:16pt;
+	float:right;
+	border:0px;
+	color:white;
+}
+
+.contactformbutton:hover{
+	background-color:#cbcaca;
+	padding: 10px 22px;
+	font-family: 'BebasNeueRegular',Arial, Helvetica, sans-serif;
+	font-size:16pt;
+	float:right;
+	border:0px;
+	color:white;
+}
+
+.contacttextboxes{
+	width:36%;
+	float:right;
+	padding: 10px 1% 10px 0px;
+	color: #d5d5d5;
+}
+
+.contacttextboxes fieldset{
+	padding:0px 0px 15px 0px;
+	margin:0px;
+	border:0px;
+}
+
+#map_canvas{
+	width:500px;
+	float:none;
+	height:350px;
+	background-color:#CCC;
+	margin: 0px;
+}
+
+#googlecontent{
+	width:40%;
+	height:30px;
+}
+
+#contactwarning{
+	width:90%;
+	display:none;
+	padding: 20px 0px;
+	margin:30px auto 0px auto;
+	color:#DA620B;
+	font-weight:bold;
+}
